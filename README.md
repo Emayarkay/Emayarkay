@@ -2,4 +2,5 @@
 
 🚲 Cycling nerd turned Coder 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,figma)](https://skillicons.dev)
